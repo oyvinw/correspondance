@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f22d49b4ba9fa429999c4b06c690f0, type: 3}
+  m_Name: whomever
+  m_EditorClassIdentifier: 
+  words:
+  - one: whomever.
+    two: 
+    three: 
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'How '
+    three: 
+  - one: 
+    two: 'come '
+    three: 
+  - one: 
+    two: 'you are '
+    three: 
+  - one: 
+    two: 'currently '
+    three: 
+  - one: 'sniffing through '
+    two: 'reading '
+    three: 
+  - one: 
+    two: 'this correspondance!? '
+    three: 
+  - one: 
+    two: 'These are my '
+    three: 
+  - one: 'secret '
+    two: 'personal '
+    three: 'intimate '
+  - one: 
+    two: 'writings! '
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'I guess '
+    three: 
+  - one: 
+    two: 'it is too late '
+    three: 
+  - one: 
+    two: 'to stop '
+    three: 
+  - one: 
+    two: you now.
+    three: 

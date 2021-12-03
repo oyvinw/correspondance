@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f22d49b4ba9fa429999c4b06c690f0, type: 3}
+  m_Name: The symbol
+  m_EditorClassIdentifier: 
+  words:
+  - one: Greetings
+    two: 'Hello '
+    three: 
+  - one: 
+    two: 'again '
+    three: 
+  - one: friend-o.
+    two: '"friend".'
+    three: my correspondent.
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'They were not '
+    three: 
+  - one: 
+    two: 'who they said '
+    three: 
+  - one: 
+    two: 'they were. '
+    three: 
+  - one: 'Pretender! '
+    two: 'Charletan! '
+    three: 'Thief! '
+  - one: 
+    two: 'just like '
+    three: 
+  - one: 
+    two: you said.
+    three: 
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'I went there in the night, '
+    three: 
+  - one: 
+    two: 'the '
+    three: 
+  - one: 'symbol '
+    two: 'insignia '
+    three: 'mark '
+  - one: 
+    two: on my mind.
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'What does it '
+    three: 
+  - one: 'mean '
+    two: 'signify '
+    three: 
+  - one: 
+    two: 'to this '
+    three: 
+  - one: 'privacy invader '
+    two: 'stalker of the night '
+    three: 'rummager '
+  - one: 
+    two: '(I guess '
+    three: 
+  - one: 
+    two: 'we both '
+    three: 
+  - one: 'invade '
+    two: 'stalk '
+    three: 'rummage '
+  - one: 
+    two: now).
+    three: 
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'In this place, '
+    three: 
+  - one: 
+    two: 'in the '
+    three: 
+  - one: 'corners '
+    two: 'details '
+    three: 'shadows '
+  - one: 
+    two: 'the symbol is everywhere. '
+    three: 
+  - one: 
+    two: 'i feel compelled by it. '
+    three: 
+  - one: 
+    two: 'Drawn to it. '
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'The house was '
+    three: 
+  - one: 'majestic '
+    two: 'dilapidated '
+    three: 'grand '
+  - one: 
+    two: 'and dark. '
+    three: 
+  - one: 
+    two: 'Nothing more '
+    three: 
+  - one: 
+    two: 'to be found. '
+    three: 
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'But the symbol, '
+    three: 
+  - one: 
+    two: 'is prize '
+    three: 
+  - one: 
+    two: enough.
+    three: 
+  - one: \end
+    two: 
+    three: 

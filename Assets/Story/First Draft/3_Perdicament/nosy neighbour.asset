@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f22d49b4ba9fa429999c4b06c690f0, type: 3}
+  m_Name: nosy neighbour
+  m_EditorClassIdentifier: 
+  words:
+  - one: the nosy neighbour.
+    two: 
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'I heard a '
+    three: 
+  - one: 'scraping '
+    two: 'rustling '
+    three: 'human '
+  - one: 
+    two: 'noise '
+    three: 
+  - one: 
+    two: 'outside my '
+    three: 
+  - one: 
+    two: 'window. '
+    three: 
+  - one: 
+    two: 'It was HIM. '
+    three: 
+  - one: 
+    two: 'The nosy neighbour. '
+    three: 
+  - one: 
+    two: 'I heard he was '
+    three: 
+  - one: 
+    two: 'always '
+    three: 
+  - one: 'poking '
+    two: 'lurking '
+    three: 'sneaking '
+  - one: 
+    two: 'around '
+    three: 
+  - one: 
+    two: 'apparently '
+    three: 
+  - one: 
+    two: 'he was a very '
+    three: 
+  - one: 'shy '
+    two: 'polite '
+    three: 'interesting '
+  - one: 
+    two: 'man '
+    three: 
+  - one: 
+    two: '(apparently). '
+    three: 
+  - one: 
+    two: 'I had never '
+    three: 
+  - one: 'acknowledged '
+    two: 'met '
+    three: 'seen '
+  - one: 
+    two: 'him '
+    three: 
+  - one: 
+    two: 'before, so I '
+    three: 
+  - one: 'waved '
+    two: 'smiled '
+    three: 'called '
+  - one: 
+    two: 'to him, '
+    three: 
+  - one: 
+    two: 'he smiled and '
+    three: 
+  - one: 'turned away '
+    two: 'introduced himself '
+    three: 'waved at me '
+  - one: 
+    two: '"I best '
+    three: 
+  - one: 
+    two: 'be on my way" '
+    three: 
+  - one: 
+    two: 'he said. '
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'He wore '
+    three: 
+  - one: 
+    two: 'an insignia '
+    three: 
+  - one: 
+    two: 'like this:'
+    three: 
+  - one: \draw
+    two: 
+    three: 
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'Magnificent! '
+    three: 
+  - one: 
+    two: 'What is it!? '
+    three: 
+  - one: 
+    two: Do you know?
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: He was not
+    three: 
+  - one: 'shy. '
+    two: 'polite. '
+    three: 'friendly. '
+  - one: 
+    two: 'I saw him '
+    three: 
+  - one: walk
+    two: hobble
+    three: scurry
+  - one: 
+    two: home
+    three: 
+  - one: 
+    two: 'it was getting '
+    three: 
+  - one: 'dark '
+    two: 'cold '
+    three: 'late '
+  - one: 
+    two: 'so I sat '
+    three: 
+  - one: 
+    two: 'in the lounge '
+    three: 
+  - one: 
+    two: 'where I '
+    three: 
+  - one: 'smoked a pipe '
+    two: 'read '
+    three: 'ate dinner '
+  - one: 
+    two: 'suddenly '
+    three: 
+  - one: 
+    two: 'the clock struck '
+    three: 
+  - one: 'nine '
+    two: 'twelve '
+    three: four
+  - one: 
+    two: 'I had '
+    three: 
+  - one: 
+    two: 'fallen '
+    three: 
+  - one: 
+    two: 'asleep. '
+    three: 
+  - one: 
+    two: 'Outside i see '
+    three: 
+  - one: 
+    two: 'the nosy neighbour '
+    three: 
+  - one: 
+    two: 'rummaging. '
+    three: 
+  - one: 
+    two: 'I would like '
+    three: 
+  - one: 
+    two: 'to see this '
+    three: 
+  - one: 'charlatan '
+    two: 'joker '
+    three: 'evil spirit '
+  - one: 
+    two: 'get a taste '
+    three: 
+  - one: 
+    two: 'of his own '
+    three: 
+  - one: 
+    two: 'medicine! '
+    three: 
+  - one: 
+    two: Tomorrow I will
+    three: 
+  - one: 
+    two: investigate his
+    three: 
+  - one: 
+    two: house.
+    three: 
+  - one: DAY 10
+    two: 
+    three: 

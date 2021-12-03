@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f22d49b4ba9fa429999c4b06c690f0, type: 3}
+  m_Name: A long lost brother
+  m_EditorClassIdentifier: 
+  words:
+  - one: my long lost sibling.
+    two: 
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'Yesterday I recieved '
+    three: 
+  - one: 
+    two: 'a letter '
+    three: 
+  - one: 
+    two: 'from someone '
+    three: 
+  - one: 
+    two: 'claiming '
+    three: 
+  - one: 
+    two: 'they are my '
+    three: 
+  - one: 'brother. '
+    two: 'sister. '
+    three: 
+  - one: 
+    two: 'The letter was '
+    three: 
+  - one: 'unmarked '
+    two: 'yellow '
+    three: 'wet '
+  - one: 
+    two: '(typical). '
+    three: 
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'The envelope was '
+    three: 
+  - one: 'torn '
+    two: 'spotless '
+    three: 'ancient '
+  - one: 
+    two: 'and engraved '
+    three: 
+  - one: 
+    two: 'with this symbol:'
+    three: 
+  - one: \draw
+    two: 
+    three: 
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'Have you ever '
+    three: 
+  - one: 
+    two: 'seen something so '
+    three: 
+  - one: enchanting...
+    two: mesmerizing...
+    three: aesthetic...
+  - one: \pg
+    two: 
+    three: 
+  - one: 
+    two: 'The handwriting '
+    three: 
+  - one: 
+    two: 'was '
+    three: 
+  - one: 'jagged. '
+    two: 'neat. '
+    three: messy.
+  - one: 
+    two: 'They said to '
+    three: 
+  - one: 
+    two: 'meet me '
+    three: 
+  - one: 'next week. '
+    two: 'tomorrow. '
+    three: 'alone. '
+  - one: 
+    two: 'in a '
+    three: 
+  - one: 'dusy '
+    two: 'remote '
+    three: 'strange '
+  - one: 'house '
+    two: 'apartment '
+    three: 'manor '
+  - one: 
+    two: 'It is all so '
+    three: 
+  - one: 'horribly '
+    two: 'wonderfully '
+    three: 'deliciously '
+  - one: 'exciting '
+    two: 'strange '
+    three: 'mysterious '
+  - one: \n
+    two: 
+    three: 
+  - one: 
+    two: 'soon '
+    three: 
+  - one: 
+    two: 'I will '
+    three: 
+  - one: 
+    two: 'know '
+    three: 
+  - one: 
+    two: 'more. '
+    three: 
+  - one: DAY 10
+    two: 
+    three: 
